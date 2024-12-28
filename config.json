@@ -1,11 +1,11 @@
 [
-    { "The Garden Awakens": "thegardenawakens" },
-    { "Tricky Trials": "trickytrials" },
-    { "Trails & Tales": "trailsandtales" },
-    { "The Wild": "thewild" },
-    { "Caves & Cliffs II": "cavesandcliffsii" },
-    { "Caves & Cliffs I": "cavesandcliffsi" },
-    { "The Nether": "thenether" },
-    { "Buzzy Bees": "buzzybees" },
-    { "Village & Pillage": "villageandpillage" }
+    { "The Garden Awakens": "1.21.4" },
+    { "Tricky Trials": "1.21-1.21.3" },
+    { "Trails & Tales": "1.20-1.20.6" },
+    { "The Wild": "1.19-1.19.4" },
+    { "Caves & Cliffs II": "1.18-1.18.2" },
+    { "Caves & Cliffs I": "1.17-1.17.1" },
+    { "The Nether": "1.16-1.16.5" },
+    { "Buzzy Bees": "1.15-1.15.2" },
+    { "Village & Pillage": "1.14-1.14-4" }
 ]
